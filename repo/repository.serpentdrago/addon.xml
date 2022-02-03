@@ -20,5 +20,11 @@
             <summary>SerpentDrago's  Kodi Repo</summary>
             <description>SerpentDrago's Home for his Addons and mods</description>
             <platform>all</platform>
-    </extension>
+	.   <assets>
+    	    <icon>icon.png</icon>
+	    <fanart>fanart.jpg</fanart>
+	    <screenshot>resources/screenshot-01.jpg</screenshot>
+	    <screenshot>resources/screenshot-02.jpg</screenshot>
+	    </assets>
+	    </extension>
 </addon>
